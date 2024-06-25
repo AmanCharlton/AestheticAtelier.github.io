@@ -1,4 +1,3 @@
-
 :root {
 
   /**
@@ -2608,7 +2607,7 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('img/background.gif');
+  background-image: url('resource/background.gif');
   background-size: cover;
   filter: brightness(0.4); 
   z-index: -1; 
